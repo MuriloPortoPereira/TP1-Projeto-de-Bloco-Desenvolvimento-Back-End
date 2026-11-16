@@ -1,0 +1,11 @@
+# Build and IDE artifacts
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Media and archive files
+*.mkv
+*.mp4
+*.zip
